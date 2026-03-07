@@ -29,6 +29,6 @@ Check out the live version hosted on GitHub Pages:
 
 ## 📬 Contact
 
-Feel free to reach out via [gnaveenkumargnk8@example.com] or connect on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/g-naveen-kumar-84a558280/)).
+Feel free to reach out via [gnaveenkumargnk8@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/g-naveen-kumar-84a558280/).
 
 ---
